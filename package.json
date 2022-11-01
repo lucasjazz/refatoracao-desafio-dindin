@@ -1,0 +1,34 @@
+{
+  "name": "desafio-backend-03-dindin-t07",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasjazz/desafio-backend-03-dindin-t07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasjazz/desafio-backend-03-dindin-t07/issues"
+  },
+  "homepage": "https://github.com/lucasjazz/desafio-backend-03-dindin-t07#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "joi": "^17.6.4",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^2.3.0",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
